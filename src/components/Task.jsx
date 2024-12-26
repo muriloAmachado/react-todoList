@@ -1,9 +1,4 @@
-import {
-  CheckCheckIcon,
-  CheckIcon,
-  ChevronRightIcon,
-  Trash,
-} from "lucide-react";
+import { CheckIcon, ChevronRightIcon, Trash } from "lucide-react";
 import { useNavigate } from "react-router";
 import Button from "./Button";
 
